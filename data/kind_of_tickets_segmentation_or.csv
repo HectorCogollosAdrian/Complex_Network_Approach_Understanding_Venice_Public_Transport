@@ -1,0 +1,311 @@
+descrizione_titolo,titolo,avg_stops,num_tickets,type,period
+24h online aerobus CS 1 mese,11386,2.0,3,Tourist,1 day
+24h-24 ore ,11105,2.1843971631205674,141,Tourist,1 day
+"24hAerAR-Tpl32,90-CVe5,10",11236,4.18348623853211,109,Tourist,1 day
+"24hAerCS-Tpl26,90-CVe5,10",11226,4.318376068376068,936,Tourist,1 day
+24ore online aerobus AR,11251,4.25,40,Tourist,1 day
+24ore online aerobus CS,11341,4.976744186046512,86,Tourist,1 day
+24ore online no aerobus,11302,2.6153846153846154,13,Tourist,1 day
+48h online aerobus AR 1 mese,11392,6.8,15,Tourist,2 days
+48h online aerobus CS 1 mese,11387,8.210526315789474,38,Tourist,2 days
+48h online no aerobus 1mese,11382,6.768802228412256,359,Tourist,2 days
+"48h-Tpl 29,90-ComVe5,10",11107,6.408943616331821,41661,Tourist,2 days
+"48hAerAR-Tpl42,90-CVe5,10",11238,7.746556473829201,363,Tourist,2 days
+"48hAerCS-Tpl36,90-CVe5,10",11228,7.832203389830508,590,Tourist,2 days
+48ore online aerobus AR,11253,7.973333333333334,150,Tourist,2 days
+48ore online aerobus CS,11343,7.683823529411764,136,Tourist,2 days
+48ore online no aerobus,11304,6.137641025641026,4875,Tourist,2 days
+7 days online aerobus AR,11255,13.855042016806722,476,Tourist,7 days
+7 days online aerobus AR 1mese,11395,14.571428571428571,175,Tourist,7 days
+7 days online aerobus CS,11345,12.337662337662335,77,Tourist,7 days
+7 days online aerobus CS 1mese,11390,14.703703703703704,27,Tourist,7 days
+7 days online no aerobus,11306,12.114093959731544,2682,Tourist,7 days
+7 days online no aerobus 1mese,11384,13.908256880733944,327,Tourist,7 days
+72 ore R.Venice online,11551,8.295274515159793,3661,Tourist,3 days
+72 ore R.Venice+aeroporto AR,11240,10.695,600,Tourist,3 days
+72 ore R.Venice+aeroporto CS,11230,9.68948247078464,599,Tourist,3 days
+72H R.Venice+aerop.AR online,11553,10.463104325699746,393,Tourist,3 days
+72H RVenice+aerop.CS online,11552,8.840989399293287,283,Tourist,3 days
+72h R.Ve.+aer.AR online 1mese,11394,10.112903225806452,62,Tourist,3 days
+72h R.Venice online 1 mese,11385,7.988274706867672,597,Tourist,3 days
+72h RVe+aerop.CS online 1 mese,11389,8.79,100,Tourist,3 days
+72h online aerobus AR 1 mese,11393,11.333333333333334,78,Tourist,3 days
+72h online aerobus CS 1 mese,11388,8.852459016393443,61,Tourist,3 days
+72h online no aerobus 1mese,11383,9.39245283018868,530,Tourist,3 days
+"72h-Tpl 38,40-ComVe6,60",11108,8.221641468682506,23150,Tourist,3 days
+"72hAerAR-Tpl51,40-CVe6,60",11239,10.383219954648526,882,Tourist,3 days
+"72hAerCS-Tpl45,40-CVe6,60",11229,9.815566835871405,591,Tourist,3 days
+72ore online aerobus AR,11254,9.555992141453832,509,Tourist,3 days
+72ore online aerobus CS,11344,8.24102564102564,195,Tourist,3 days
+72ore online no aerobus,11305,8.136936389858812,6587,Tourist,3 days
+"75'-Tpl 12,60-CVe2,40 online",11550,1.0,3,Other,75 mins
+"75'-Tpl 6,64-ComVe0,86",5,1.0637569977192618,9646,Other,75 mins
+"75'-Tpl 8,64-ComVe0,86",11136,1.1760856632956571,1681,Other,75 mins
+"75'-Tpl 8,64-ComVe0,86",11101,1.079349435788332,383544,Other,75 mins
+"7gg-Tpl 48,60-ComVe16,40",11149,13.251062186172268,7767,Tourist,7 days
+"7ggAerAR-Tpl61,60-CVe16,40",11241,15.5625,624,Tourist,7 days
+"7ggAerCS-Tpl55,60-CVe16,40",11231,15.286885245901638,122,Tourist,7 days
+ANNUALE park+Rete intera,22108,1.0,1,Other,1 Year
+ARRIVA Aeroporto BORDO,7019,1.0,4,Other,Other
+ARRIVA Aeroporto O.Mens,7571,4.666666666666667,3,Other,1 Month
+ARRIVA Extra tr. 5-6-7 BORDO,7017,1.0350877192982455,57,Other,Other
+ARRIVA Extra tr.1 BORDO,7015,1.15625,64,Other,Other
+ARRIVA Extra tr.8-9-10 BORDO,7018,1.0144927536231885,69,Other,Other
+ARRIVA Misto Actv 24h,7031,1.5,2,Tourist,1 day
+ARRIVA VENETO AEROPORTO,7010,1.0173913043478262,115,Other,Other
+ARRIVA VENETO tratta 1,7001,1.4904013961605584,573,Other,Other
+ARRIVA VENETO tratta 2,7002,1.48943661971831,284,Other,Other
+ARRIVA VENETO tratta 3,7003,1.375,200,Other,Other
+ARRIVA VENETO tratta 4,7004,1.282142857142857,280,Other,Other
+ARRIVA VENETO tratta 5,7005,1.4385964912280702,57,Other,Other
+ARRIVA VENETO tratta 6,7006,1.3556701030927836,194,Other,Other
+ARRIVA VENETO tratta 7,7007,1.4224137931034484,348,Other,Other
+ARRIVA VENETO tratta 8-9-10,7008,1.4235594301509675,4703,Other,Other
+ARRIVAExtra tr.2-3-4 BORDO,7016,1.0192307692307692,52,Other,Other
+Abb Stud. 12 mesi CHIOGGIA,25302,4.947368421052632,19,Student,1 Year
+Abb stud. ReteUnica 12 mesi ,23303,12.814435062324083,4974,Student,1 Year
+Abb studente bus LIDO 12 mesi ,22306,1.0,5,Student,1 Year
+Abb. Chioggia A20 ,25402,6.548223350253807,197,Other,1 Year
+Abb. Chioggia A20 + acc.,25406,4.0,1,Other,1 Year
+Abb. Chioggia A5 ,25401,6.0,3,Other,1 Year
+Abb. Rete Intera  A20 +Acc.,23391,10.285714285714286,7,Other,1 Year
+Abb. Rete Intera A20,23402,16.393151135989463,3037,Other,1 Year
+Abb. Rete Intera A5,23401,11.198501872659175,267,Other,1 Year
+Abb. extra A20,24511,14.766816143497758,223,Other,1 Year
+Abb. extra A5,24501,6.416666666666667,12,Other,1 Year
+Abb. ordinario bus. Lido,22102,4.1875,112,Worker,1 Year
+Abb. over 75 A20,23411,8.562130177514794,169,Retired,1 Year
+Abb. over 75 A5,23410,2.0,1,Retired,1 Year
+Abb. over75 GRATUITO,23406,9.766175528507366,1561,Retired,1 Year
+Abb. over75 Rete Unica 50% ,23409,11.993119266055048,436,Retired,1 Year
+Abb.stud.Ann.PELLESTRINA,21324,9.64367816091954,174,Student,1 Year
+Abbonamento pensionati Actv,21403,9.711515151515153,825,Retired,1 Year
+Acc.L.R.A20 rete intera,23413,6.0,1,Other,Other
+"Aer+boat-Tpl16,50-C.Ve1,50",11245,1.746590409150902,2273,Other,Other
+Aerobus+boat online,11250,1.8059701492537312,67,Other,Other
+Aerobus+boat online 1mese,11396,1.631578947368421,38,Other,Other
+Aeroporto-Venezia AR,11246,1.739292900258695,3479,Other,Other
+Aeroporto-Venezia AR ONLINE,11256,1.495433789954338,876,Other,Other
+Aeroporto-Venezia CS ONLINE,11346,1.0070921985815604,282,Other,Other
+Annuale ORDINARIO ISOLE,20013,23.87033462033462,3108,Worker,1 Year
+Annuale ORDINARIO bus Lido,20015,1.0833333333333333,12,Worker,1 Year
+Annuale Ordinario extra,24111,12.279475982532752,229,Worker,1 Year
+Annuale STUDENTE ISOLE,20014,14.653846153846152,676,Student,1 Year
+Annuale Studente extra,24311,3.187207488299532,641,Student,1 Year
+Annuale cat. D 17(un semestre),128,122.0,1,Other,1 Year
+Annuale cat. D linea 11,133,67.0,1,Other,1 Year
+Annuale ord.res.PELLESTRINA,21117,13.57808857808858,429,Other,1 Year
+Annuale ordinario Rete Unica,23102,25.790588436245624,11709,Worker,1 Year
+Apertura tornelli DUSSMAN,9016,21.73684210526316,19,Other,Other
+Apertura tornelli P.SABBIONI,9015,1.0,1,Other,1 Year
+Atvo Canova+Actv 72H,13023,9.204819277108436,83,Tourist,3 days
+Atvo Canova+Actv 72H online,13053,8.488262910798122,213,Tourist,3 days
+Atvo Canova+Navig 1 corsa,13021,1.1644736842105263,152,Other,Other
+Atvo Canova+Navig AR,13022,1.8222222222222224,90,Other,Other
+Atvo Canova+Navig AR online,13052,1.7045454545454546,44,Other,Other
+Atvo+Actv ann.Lav.F1,24023,41.95454545454545,22,Worker,Other
+Atvo+Actv ann.Lav.F2,24024,70.8,5,Worker,Other
+Atvo+Actv ann.Stud.F1,24003,32.68,25,Student,Other
+Atvo+Actv ann.Stud.F2,24004,29.727272727272727,11,Student,Other
+Atvo+Actv mens.20%.F1,24050,31.125,8,Other,1 Month
+Atvo+Actv mens.20%.F2,24051,28.857142857142858,7,Other,1 Month
+Atvo+Actv mens.20%.F3,24052,22.33333333333333,3,Other,1 Month
+Atvo+Actv mens.5%.F2,24061,27.0,1,Other,1 Month
+Atvo+Actv mens.Lav.F1,24020,35.05384615384615,130,Worker,1 Month
+Atvo+Actv mens.Lav.F2,24021,50.45283018867924,53,Worker,1 Month
+Atvo+Actv mens.Lav.F3,24022,32.0,1,Worker,1 Month
+Atvo+Actv mens.Ord.F1,24040,41.32608695652174,46,Other,1 Month
+Atvo+Actv mens.Ord.F2,24041,46.90909090909091,11,Other,1 Month
+Atvo+Actv mens.Ord.F3,24042,54.5,2,Other,1 Month
+Atvo+Actv mens.Stud.F1,24000,29.67,100,Student,1 Month
+Atvo+Actv mens.Stud.F2,24001,32.3968253968254,63,Student,1 Month
+Atvo+Actv mens.Stud.F3,24002,19.2,5,Student,1 Month
+AtvoCanova+Actv 72Hroll.online,13054,8.716981132075471,159,Tourist,3 days
+AtvoCanova+Navig 1corsa online,13051,1.146341463414634,41,Other,Other
+Bagaglio CartaVenezia,11220,1.1065989847715736,197,Other,Other
+"Bicicletta ""Palmare""",12335,1.0372340425531914,564,Other,Other
+"Bicicletta ""biglietteria""",11450,1.092877094972067,1432,Other,Other
+"Bicicletta ""concessionari""",11455,1.0361990950226243,221,Other,Other
+Bigl Aer-Venezia TSC,12106,1.0117795793867397,49832,Other,Other
+Bigl RETE UNICA 100',11210,3.4982954545454543,1760,Other,Other
+Bigl RETE UNICA 75',11209,6.857358788357058,164735,Other,75 mins
+Bigl.Aut.75'Mestre/Lido-tsc,12101,1.495560760642139,216028,Other,75 mins
+Bigl.Mestre/Lido 75' a bordo,12104,1.0202613595492147,8341,Other,75 mins
+Bigl.urbano CHIOGGIA,15103,1.123008849557522,1130,Other,Other
+Biglietto 72 ore Roll. Venice,11109,8.058420628525383,7446,Tourist,3 days
+Biglietto MOTO FINO 50 cc,12340,1.023076923076923,130,Other,Other
+Biglietto Soc. Sportive,11431,3.920353982300885,226,Other,Other
+Biglietto di bordo CV 75',11219,1.3833083458270865,2001,Other,75 mins
+Biglietto scuole,11441,3.63302752293578,109,Other,Other
+Biglietto scuole online,11442,2.5,2,Other,Other
+Bordo 75min CartaVenezia,11099,1.0360983102918586,1302,Other,Other
+Bus+People mover online,10040,1.0,8,Other,Other
+Carnet CHIOGGIA 10 c. CARD,15113,1.5555555555555556,9,Other,Other
+Carnet CHIOGGIA 10c. TICKET,15114,2.0107238605898123,1119,Other,Other
+Cav -Trep + Actv 24H,13003,3.8181818181818175,22,Tourist,1 day
+Cav-Trep - S.Marco AR,13002,2.2,10,Other,Other
+Ciclomotore fino 50cc,11451,1.0,194,Other,Other
+Ciclomotore oltre 50cc,11452,1.0,15,Other,Other
+DDGR1201-1297/2022 Extra,24514,2.0,1,Other,Other
+DDGR1201-1297/2022 R. Unica,11223,1.0,5,Other,Other
+Daily Pass Ve. Online 1mese,11397,4.003367003367004,297,Tourist,1 day
+Daily Pass Venezia Online,11266,3.815049864007253,4412,Tourist,1 day
+"DailyP-Tpl19,90-C.Ve5,10",11261,3.9028240226908375,129744,Tourist,1 day
+"Ev3-Tpl 30,50-C.Ve1,50",11175,2.0,1,Other,Other
+"Ev5-Tpl 38,50-C.Ve1,50",11176,2.090909090909091,11,Other,Other
+"Ev8-Tpl 52,00-C.Ve3,00",11177,8.522388059701493,67,Other,Other
+Extra tratta 1,14121,1.660639512752189,5254,Other,Other
+Extra tratta 1 BORDO,14130,1.177914110429448,163,Other,Other
+Extra tratta 1 TVM,13601,1.0957746478873238,710,Other,Other
+Extra tratta 2 ,14122,1.7322429267848194,21949,Other,Other
+Extra tratta 2 TVM,13602,1.0897560975609757,1025,Other,Other
+Extra tratta 3 ,14123,1.598084735925711,13784,Other,Other
+Extra tratta 3 TVM,13603,1.0800865800865802,462,Other,Other
+Extra tratta 4 ,14124,1.5570398076409298,7486,Other,Other
+Extra tratta 4 TVM,13604,1.0655021834061136,458,Other,Other
+Extra tratta 5 ,14125,1.5643254520166898,2876,Other,Other
+Extra tratta 5 TVM,13605,1.148936170212766,94,Other,Other
+Extra tratta 6 ,14126,1.477488151658768,844,Other,Other
+Extra tratta 6 TVM,13606,1.0769230769230769,13,Other,Other
+Extra tratta 7 ,14127,1.3691756272401434,279,Other,Other
+Extra tratta 7 TVM,13607,1.0,22,Other,Other
+Extra tratta 8-9-10 ,14128,1.3427331887201734,461,Other,Other
+Extra tratta 8-9-10 TVM,13608,1.0,9,Other,Other
+Extra tratte 2-3-4 BORDO,14132,1.132290184921764,703,Other,Other
+Extra tratte 5-6-7 BORDO,14134,1.0377358490566038,53,Other,Other
+Extra tratte 8-9-10 BORDO,14136,1.0869565217391304,23,Other,Other
+Ferry11-Trasporti pericolosi,12330,1.0,7,Other,Other
+Ferry11-autocarri+35q.,12315,1.0,733,Other,Other
+Ferry11-carri+35q.rim.,12320,1.0,22,Other,Other
+Ferry17-AUTOBUS,12375,1.0,14,Other,Other
+Ferry17-Trasporti pericolosi,12380,1.0,33,Other,Other
+Ferry17-autocarri+35q.,12365,1.0246462802373346,2191,Other,Other
+Ferry17-carri+35q.rim.,12370,1.0357142857142858,588,Other,Other
+Gruppi e scuole online 2viaggi,11439,4.0,1,Other,Other
+Integrazione rete MESTRE,22409,4.333333333333333,6,Other,Other
+Jesolo + Actv 24H,13006,3.125,24,Tourist,1 day
+Jesolo - S.Marco AR,13005,2.072847682119205,151,Other,Other
+"L.11-auto ""AeB"" fino a 4 metri",12300,1.001589825119237,629,Other,Other
+"L.11-auto ""C""da 4,01 a 4,50 mt",12305,1.0,408,Other,Other
+"L.11-auto ""D"" oltre metri 4,50",12310,1.004461440407903,1569,Other,Other
+"L.17-auto ""AeB"" fino a 4 metri",12350,1.019776119402985,2680,Other,Other
+"L.17-auto ""C""da 4,01 a 4,50 mt",12355,1.0295880149812735,2670,Other,Other
+"L.17-auto ""D"" oltre metri 4,50",12360,1.026645577320842,8219,Other,Other
+Libera circ. DUE RETI,9002,16.714285714285715,357,Other,Other
+Libera circ. FERRY LINEA 11,9006,8.0,1,Other,Other
+Libera circ. FERRY LINEA 17,9009,2.2,5,Other,Other
+Libera circ. FERRY LINEA 17+11,9011,3.333333333333333,3,Other,Other
+Libera circ. RETE intera,9001,10.643104943625325,2306,Other,Other
+Linea 11+17 categoria A,120,11.25,4,Other,Other
+Linea 11+17 categoria B,121,7.069444444444445,72,Other,Other
+Linea 11+17 categoria C,122,8.502793296089386,179,Other,Other
+Linea 11+17 categoria D,123,9.48,50,Other,Other
+Linea 11-categoria A,100,10.863636363636363,88,Other,Other
+Linea 11-categoria B,101,11.48974943052392,439,Other,Other
+Linea 11-categoria C,102,11.53125,512,Other,Other
+Linea 11-categoria D,103,14.874418604651163,215,Other,Other
+Linea 17-categoria A,110,8.132352941176471,272,Other,Other
+Linea 17-categoria B,111,6.9908835904628335,1426,Other,Other
+Linea 17-categoria C,112,7.265617314313822,2033,Other,Other
+Linea 17-categoria D,113,8.284552845528456,984,Other,Other
+MENSILE park+Rete intera,22107,17.666666666666668,6,Other,1 Month
+MOBILITY Ordinario extra,10104,10.087301587301589,126,Worker,Other
+MOBILITY Supp.NAVIGAZIONE,10102,25.103448275862068,116,Other,Other
+MOBILITY ordinario Rete Unica,10101,22.492087799897902,1959,Worker,Other
+MOBILITY studente ReteUnica,10106,2.5,2,Student,Other
+Mens. cose animali RETE INTERA,21109,6.294117647058823,17,Other,1 Month
+Mens. cose animali RETE UNICA,1109,12.2,5,Other,1 Month
+Mens. studente bus LIDO,22302,1.818181818181818,11,Student,1 Month
+Mens.Studente Rete Unica,23301,13.564659538548115,8885,Student,1 Month
+Mensile ORDINARIO ISOLE,20003,19.904128761371588,4287,Worker,1 Month
+Mensile Ordinario extra,24101,11.771984091913389,2263,Worker,1 Month
+Mensile STUDENTE ISOLE,20004,13.336032388663968,494,Student,1 Month
+Mensile Studente extra,24301,4.054654141759181,1171,Student,1 Month
+Mensile ord. res. PELLESTRINA,21108,10.606629834254145,905,Other,1 Month
+Mensile ordinario Rete Unica,23101,23.290027158466494,31666,Worker,1 Month
+Mensile stud. PELLESTRINA,21308,8.465277777777779,144,Student,1 Month
+NA-Bicicletta e conducente CV,11213,1.125,8,Other,Other
+NA-Big.Aut.75' Mestre/Lido-csc,12102,1.4578651685393258,356,Other,75 mins
+NA-Bigl. CHIOGGIA CARD,15111,1.0,1,Other,Other
+NA-C Aut. 10 corse 75' CARD ,12105,1.4,70,Other,75 mins
+NA-C CHIOGGIA 10 c. CARD fs,15112,1.0,1,Other,Other
+NA-Carnet nav. 10 corse da 75',11211,1.774390243902439,164,Other,75 mins
+NA-Gruppi e Scuole,11430,3.5,2,Other,Other
+NA-Traghetto ordinario,11103,17.5,2,Worker,Other
+"NA75'-Tpl 13,28-ComVe1,72",11138,1.206896551724138,87,Other,75 mins
+"NATragh-Tpl 4,41-C.Ve0,59",11180,1.0,8,Other,Other
+"NATragh-Tpl 8,82-C.Ve1,18",11181,1.3076923076923077,13,Other,Other
+Navetta Arsenale CA,11600,1.2213781877373846,1843,Other,Other
+Ord. Rete Intera FAMILIARE,32302,22.23684210526316,152,Other,Other
+Ordinario Chioggia FAMILIARE,32313,16.0,1,Worker,Other
+Ordinario extra FAMILIARE,32305,6.0,3,Worker,Other
+PeopleMover+Bus+Tram 75',11151,1.0,117,Other,75 mins
+PeopleMover+Bus+Tram 75'carnet,11152,2.0434782608695654,23,Other,75 mins
+Prenotaz OCCASIONALE si barra,12394,1.080625,3200,Other,Other
+Prenotazione Veicolo ABBONATO,11174,1.0,9,Worker,1 Year
+S.Terr+Actv ANN ord tr.2,32451,11.0,1,Other,Other
+S.Terr+Actv ANN ord tr.3,32452,1.0,1,Other,Other
+S.Terr+Actv ANN ord tr.6,32455,2.0,4,Other,Other
+S.Terr+Actv ANN ord tr.7,32456,4.0,1,Other,Other
+S.Terr+Actv ANN ord tr.8,32457,3.5,2,Other,Other
+S.Terr+Actv ANN ord tr.9,32458,20.0,2,Other,Other
+S.Terr+Actv ANN stud tr.2,32461,1.5,2,Student,Other
+S.Terr+Actv ANN stud tr.3,32462,1.0,1,Student,Other
+S.Terr+Actv ANN stud tr.5,32464,1.2,10,Student,Other
+S.Terr+Actv ANN stud tr.6,32465,7.25,12,Student,Other
+S.Terr+Actv ANN stud tr.7,32466,2.909090909090909,11,Student,Other
+S.Terr+Actv ANN stud tr.8,32467,9.0,1,Student,Other
+S.Terr+Actv ORD. tr.2,32441,1.0,4,Other,Other
+S.Terr+Actv ORD. tr.3,32442,1.0,4,Other,Other
+S.Terr+Actv ORD. tr.4,32443,3.0,1,Other,Other
+S.Terr+Actv ORD. tr.5,32444,5.5,8,Other,Other
+S.Terr+Actv ORD. tr.6,32445,6.594594594594595,37,Other,Other
+S.Terr+Actv ORD. tr.7,32446,9.6,15,Other,Other
+S.Terr+Actv ORD. tr.8,32447,2.333333333333333,3,Other,Other
+S.Terr+Actv ORD. tr.9,32448,2.4166666666666665,12,Other,Other
+S.Terr+Actv STUDENTE tr.2,32421,1.6363636363636365,22,Student,Other
+S.Terr+Actv STUDENTE tr.3,32422,1.25,4,Student,Other
+S.Terr+Actv STUDENTE tr.4,32423,1.0,2,Student,Other
+S.Terr+Actv STUDENTE tr.5,32424,1.375,8,Student,Other
+S.Terr+Actv STUDENTE tr.7,32426,2.7777777777777777,9,Student,Other
+S.Terr+Actv STUDENTE tr.8,32427,2.0,1,Student,Other
+S.Terr+Actv STUDENTE tr.9,32428,1.0,2,Student,Other
+S.Terrr+Actv STUDENTE tr.6,32425,4.0,17,Student,Other
+Semestrale Ceod A20,23108,11.676470588235292,102,Other,6 Months
+Semestrale Ceod A20+Acc.,23109,14.367567567567567,185,Other,6 Months
+"SpiaggeAR-Tpl 14,75-ComVe1,25",11121,1.0,3,Other,Other
+Stud. Rete Intera  FAMILIARE,32304,16.850877192982455,114,Student,Other
+Studente Chioggia FAMILIARE,32315,3.5,2,Student,Other
+Studente extra FAMILIARE,32311,2.1818181818181817,11,Student,Other
+Supp Mens.automobilistico,22407,9.059701492537313,67,Other,1 Month
+Supp Mens.navigazione,21402,28.514384349827388,869,Other,1 Month
+Supp Mens.urbano CHIOGGIA,25501,1.4,5,Other,1 Month
+Supp Mestre FAMILIARE,32407,1.0,1,Other,Other
+Supp navigazione FAMILIARE,31402,36.333333333333336,3,Other,Other
+Supp. 12 mesi studente automob,22402,1.6666666666666667,3,Student,Other
+Supp. 12 mesi studente laguna,21406,10.181818181818182,22,Student,Other
+Supp. Annuale AUTOMOB.,22405,18.2,5,Other,1 Year
+Supp.Annuale NAVIGAZIONE,21404,30.085470085470085,117,Other,1 Year
+Suppl. Rete Mestre  ATVO,22410,1.0,1,Other,Other
+T.Fusina Ve+ACTV 24 ore,16103,3.4923076923076923,130,Tourist,1 day
+T.Fusina Ve+ACTV 72 ore,16104,6.448275862068965,58,Tourist,3 days
+Tariffa carrozzina,11222,1.0674915635545557,889,Other,Other
+Tessera di servizio ACTV,9000,16.2301775147929,1690,Other,Other
+Tessera di servizio ARRIVA,8999,7.788135593220339,118,Other,Other
+Titolo CMVenezia,9999,16.295396419437342,782,Other,Other
+Traghetto Carta Venezia,11400,5.4675,2400,Other,Other
+Traghetto Gratuito,11137,1.0,4,Other,Other
+Traghetto resid. PELLESTRINA,11408,6.871473354231975,638,Other,Other
+Traghetto residente BURANO,11405,10.918823529411764,850,Other,Other
+Traghetto residente GIUDECCA,11403,5.857142857142857,7,Other,Other
+Traghetto residente LIDO,11402,6.380368098159509,489,Other,Other
+Traghetto residente MURANO,11404,6.852589641434263,251,Other,Other
+Traghetto residente S.ERASMO,11406,11.503355704697986,149,Other,Other
+VENDITA A BORDO 75' CV,80,1.4,5,Other,75 mins
+abb. Mensile CHIOGGIA,25101,12.74233128834356,163,Other,1 Year
+abb. Studente Mens. CHIOGGIA,25301,6.47945205479452,73,Student,1 Year
+abb. impersonale rete INTERA,21401,14.0,9,Other,1 Year
+abb.CHIOGGIA annuale,25202,11.428571428571429,7,Other,1 Year
+biglietto merci C.Semplice,11116,1.017094017094017,117,Other,Other
+ord. navig. 75' online 1 mese,11381,1.1333333333333333,165,Other,75 mins
+ord. navigazione 75' online,11307,1.100398936170213,3008,Other,75 mins
