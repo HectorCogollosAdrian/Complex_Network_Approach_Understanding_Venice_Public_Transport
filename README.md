@@ -11,6 +11,8 @@ By modeling stops and travels as nodes and edges, it explores how **residents an
 
 The goal is to uncover structural patterns, key hubs, and mobility differences between user groups — offering insights for **urban planning** and **transport optimization**.
 
+This repository includes the code and experiments described in the paper "Mapping Urban Mobility Patterns: A Complex Network Approach to Understanding Venice’s Public Transport Usage by Residents and Tourists" submitted to the [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/).
+
 ---
 
 ## Project Structure
@@ -81,10 +83,10 @@ Released under the **MIT License**.
 
 ---
 
-## Author
+## Authors
 
-**Héctor Cogollos Adrián**
-**Bruno Baruque Zanón**
-**Santiago Porras Alfonso**
-**Alessandra Raffaetàa**
+[**Héctor Cogollos Adrián**](https://investigacion.ubu.es/investigadores/131537/detalle?lang=en)  
+[**Bruno Baruque Zanón**](https://investigacion.ubu.es/investigadores/35000/detalle)  
+[**Santiago Porras Alfonso**](https://investigacion.ubu.es/investigadores/35444/detalle)  
+[**Alessandra Raffaetàa**](https://www.unive.it/data/people/5591966)
 
