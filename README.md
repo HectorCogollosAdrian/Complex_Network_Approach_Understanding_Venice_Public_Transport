@@ -20,6 +20,8 @@ This repository includes the code and experiments described in the paper "Mappin
 ```
 ├── bin/               # Utility scripts for data processing and analysis
 ├── notebooks/         # Jupyter notebooks with main experiments and visualizations
+├── data/              # Input datasets and metadata for network construction
+├── models/            # Saved network models (GraphML files and related outputs)
 ├── LICENSE
 ├── README.md
 └── requirements.txt
