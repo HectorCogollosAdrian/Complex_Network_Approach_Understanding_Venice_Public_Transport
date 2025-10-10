@@ -1,0 +1,3018 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d1" for="node" attr.name="y" attr.type="double" />
+  <key id="d0" for="node" attr.name="x" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="Punta Sabbioni DX">
+      <data key="d0">0.8630778935984931</data>
+      <data key="d1">0.795091117225895</data>
+    </node>
+    <node id="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d0">0.5289855507825396</data>
+      <data key="d1">0.6907631378739055</data>
+    </node>
+    <node id="S. Elena DX">
+      <data key="d0">0.4812640812280371</data>
+      <data key="d1">0.7168149143576306</data>
+    </node>
+    <node id="Giardini Biennale SX">
+      <data key="d0">0.45213734266574407</data>
+      <data key="d1">0.7300647739311529</data>
+    </node>
+    <node id="Crea">
+      <data key="d0">0.2428910450899725</data>
+      <data key="d1">0.7877676101903506</data>
+    </node>
+    <node id="Arsenale DX">
+      <data key="d0">0.40778635585328465</data>
+      <data key="d1">0.7433146335047004</data>
+    </node>
+    <node id="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d0">0.38622968548168685</data>
+      <data key="d1">0.745522350916855</data>
+    </node>
+    <node id="Rialto Mercato">
+      <data key="d0">0.3281564480759413</data>
+      <data key="d1">0.7670591497621689</data>
+    </node>
+    <node id="S. Marta">
+      <data key="d0">0.18373636937126897</data>
+      <data key="d1">0.7461480486053403</data>
+    </node>
+    <node id="Celestia">
+      <data key="d0">0.4144311934873383</data>
+      <data key="d1">0.7657295421741598</data>
+    </node>
+    <node id="S. Giorgio">
+      <data key="d0">0.36983387905915294</data>
+      <data key="d1">0.7315685814438089</data>
+    </node>
+    <node id="Giudecca Palanca SX">
+      <data key="d0">0.27011925861395536</data>
+      <data key="d1">0.7222506630262379</data>
+    </node>
+    <node id="Sacca Fisola DX">
+      <data key="d0">0.2100994322448833</data>
+      <data key="d1">0.7299261250115696</data>
+    </node>
+    <node id="Tronchetto 'B' SX">
+      <data key="d0">0.15422511940881334</data>
+      <data key="d1">0.7693379691843999</data>
+    </node>
+    <node id="Spirito Santo">
+      <data key="d0">0.30808975937997757</data>
+      <data key="d1">0.7274446648606916</data>
+    </node>
+    <node id="Ferrovia &quot;B&quot;">
+      <data key="d0">0.2485145243173412</data>
+      <data key="d1">0.772334918908155</data>
+    </node>
+    <node id="Riva de Biasio SX">
+      <data key="d0">0.27029349034215155</data>
+      <data key="d1">0.7761068805415102</data>
+    </node>
+    <node id="S. Marcuola-Casino' DX">
+      <data key="d0">0.2892366847907747</data>
+      <data key="d1">0.7776924553657237</data>
+    </node>
+    <node id="San Stae">
+      <data key="d0">0.3011204902520344</data>
+      <data key="d1">0.7752109952148457</data>
+    </node>
+    <node id="Ca' D'Oro">
+      <data key="d0">0.31975126918802477</data>
+      <data key="d1">0.7710053113201457</data>
+    </node>
+    <node id="Rialto &quot;D&quot;">
+      <data key="d0">0.3297185256391052</data>
+      <data key="d1">0.7604146669226418</data>
+    </node>
+    <node id="S. Silvestro">
+      <data key="d0">0.3154795878518429</data>
+      <data key="d1">0.7576630191335595</data>
+    </node>
+    <node id="S. Angelo">
+      <data key="d0">0.2984289104508962</data>
+      <data key="d1">0.7533471271232764</data>
+    </node>
+    <node id="S. Toma' SX">
+      <data key="d0">0.283811469254105</data>
+      <data key="d1">0.7518824257161776</data>
+    </node>
+    <node id="Ca' Rezzonico">
+      <data key="d0">0.2791012046021211</data>
+      <data key="d1">0.7451312898615612</data>
+    </node>
+    <node id="S. Samuele">
+      <data key="d0">0.2819069362251824</data>
+      <data key="d1">0.745820979359085</data>
+    </node>
+    <node id="Zattere SX">
+      <data key="d0">0.2739763885968381</data>
+      <data key="d1">0.730822010338234</data>
+    </node>
+    <node id="S. Maria del Giglio">
+      <data key="d0">0.3121691850160728</data>
+      <data key="d1">0.7385401335295914</data>
+    </node>
+    <node id="Salute">
+      <data key="d0">0.3226050647361024</data>
+      <data key="d1">0.7376158073988761</data>
+    </node>
+    <node id="S. Marco (Vallaresso) SX">
+      <data key="d0">0.3400102135840645</data>
+      <data key="d1">0.7410073732784439</data>
+    </node>
+    <node id="Madonna dell'Orto">
+      <data key="d0">0.31375529454173956</data>
+      <data key="d1">0.7962856309947894</data>
+    </node>
+    <node id="S. Alvise">
+      <data key="d0">0.29337619033314305</data>
+      <data key="d1">0.7999473845125616</data>
+    </node>
+    <node id="Cimitero S. Michele">
+      <data key="d0">0.3923157799873817</data>
+      <data key="d1">0.7998371763969786</data>
+    </node>
+    <node id="Murano Colonna &quot;A&quot;">
+      <data key="d0">0.41163146985491067</data>
+      <data key="d1">0.8084902910205323</data>
+    </node>
+    <node id="Burano DX per Treporti">
+      <data key="d0">0.8143170416654152</data>
+      <data key="d1">0.938233683866255</data>
+    </node>
+    <node id="Treporti">
+      <data key="d0">1.0</data>
+      <data key="d1">0.8811956514010746</data>
+    </node>
+    <node id="Chioggia P.tta Vigo">
+      <data key="d0">0.0</data>
+      <data key="d1">0.0</data>
+    </node>
+    <node id="Pellestrina Cimitero M/N">
+      <data key="d0">0.11583405929886895</data>
+      <data key="d1">0.1390079847557364</data>
+    </node>
+    <node id="F.te Nove &quot;C&quot;">
+      <data key="d0">0.3617411156838585</data>
+      <data key="d1">0.7797259728532568</data>
+    </node>
+    <node id="Zitelle SX">
+      <data key="d0">0.3438192796419203</data>
+      <data key="d1">0.7217920550614119</data>
+    </node>
+    <node id="Redentore">
+      <data key="d0">0.3086244705458228</data>
+      <data key="d1">0.7177356853878268</data>
+    </node>
+    <node id="S. Basilio">
+      <data key="d0">0.2411967917330057</data>
+      <data key="d1">0.7353512083786705</data>
+    </node>
+    <node id="Guglie dx">
+      <data key="d0">0.2629817657484497</data>
+      <data key="d1">0.7842693912956934</data>
+    </node>
+    <node id="S. Erasmo Capannone">
+      <data key="d0">0.6481961008140854</data>
+      <data key="d1">0.8210362406945307</data>
+    </node>
+    <node id="S. Erasmo Chiesa">
+      <data key="d0">0.7775000750998808</data>
+      <data key="d1">0.8381896006200041</data>
+    </node>
+    <node id="S. Erasmo Punta Vela">
+      <data key="d0">0.8383069482411685</data>
+      <data key="d1">0.8698975420035279</data>
+    </node>
+    <node id="Lido bus">
+      <data key="d0">0.4345159061551925</data>
+      <data key="d1">0.5940146327936648</data>
+    </node>
+    <node id="Torcello">
+      <data key="d0">0.7900808074739466</data>
+      <data key="d1">0.9648542764303891</data>
+    </node>
+    <node id="Lido S. Nicolo' M/N">
+      <data key="d0">0.5793805761663005</data>
+      <data key="d1">0.7133273607645051</data>
+    </node>
+    <node id="Aeroporto">
+      <data key="d0">0.3510348763855894</data>
+      <data key="d1">1.0</data>
+    </node>
+    <node id="Tre Archi">
+      <data key="d0">0.23492444951785793</data>
+      <data key="d1">0.7913618167985654</data>
+    </node>
+    <node id="Mazzorbo">
+      <data key="d0">0.7740334645077943</data>
+      <data key="d1">0.9399827933135584</data>
+    </node>
+    <node id="Alberoni Faro Rocchetta N">
+      <data key="d0">0.1700321427498626</data>
+      <data key="d1">0.41891882283513376</data>
+    </node>
+    <node id="Santa Maria Del Mare">
+      <data key="d0">0.22400192255699938</data>
+      <data key="d1">0.38780813833606986</data>
+    </node>
+    <node id="Bacini - Arsenale Nord">
+      <data key="d0">0.4603022019285683</data>
+      <data key="d1">0.7661774848375046</data>
+    </node>
+    <node id="S. Pietro di Castello">
+      <data key="d0">0.4876325512932175</data>
+      <data key="d1">0.7470830400375368</data>
+    </node>
+    <node id="P.le Roma (Hotel S. Chiar">
+      <data key="d0">0.23303193247018145</data>
+      <data key="d1">0.7642648407670609</data>
+    </node>
+    <node id="Piazzale Roma">
+      <data key="d0">0.2255700081107863</data>
+      <data key="d1">0.7620286825508555</data>
+    </node>
+    <edge source="Punta Sabbioni DX" target="Punta Sabbioni DX">
+      <data key="d2">22.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">220.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Elena DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Giardini Biennale SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Arsenale DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">423.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Giudecca Palanca SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="San Stae">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Rialto &quot;D&quot;">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Toma' SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Zattere SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Madonna dell'Orto">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="S. Alvise">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Burano DX per Treporti">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Bacini - Arsenale Nord">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Punta Sabbioni DX" target="Piazzale Roma">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Punta Sabbioni DX">
+      <data key="d2">56.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">874.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Elena DX">
+      <data key="d2">191.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Giardini Biennale SX">
+      <data key="d2">50.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Crea">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Arsenale DX">
+      <data key="d2">143.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1249.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Marta">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Celestia">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Giudecca Palanca SX">
+      <data key="d2">59.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Sacca Fisola DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Tronchetto 'B' SX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">34.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="San Stae">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Ca' D'Oro">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">156.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Silvestro">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Angelo">
+      <data key="d2">23.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Toma' SX">
+      <data key="d2">99.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Ca' Rezzonico">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Zattere SX">
+      <data key="d2">69.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Maria del Giglio">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Salute">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Marco (Vallaresso) SX">
+      <data key="d2">340.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Burano DX per Treporti">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Chioggia P.tta Vigo">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Zitelle SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Basilio">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Guglie dx">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="S. Erasmo Chiesa">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Lido bus">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Lido S. Nicolo' M/N">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Aeroporto">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Tre Archi">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Bacini - Arsenale Nord">
+      <data key="d2">26.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">113.0</data>
+    </edge>
+    <edge source="Lido (S.M.E.) &quot;B&quot;" target="Piazzale Roma">
+      <data key="d2">25.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Punta Sabbioni DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">288.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Elena DX">
+      <data key="d2">105.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Giardini Biennale SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Arsenale DX">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">116.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Giudecca Palanca SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Sacca Fisola DX">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Marcuola-Casino' DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="San Stae">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Rialto &quot;D&quot;">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Toma' SX">
+      <data key="d2">22.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Ca' Rezzonico">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Zattere SX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">32.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Burano DX per Treporti">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="F.te Nove &quot;C&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="S. Basilio">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Lido bus">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Lido S. Nicolo' M/N">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Bacini - Arsenale Nord">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="S. Elena DX" target="Piazzale Roma">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Punta Sabbioni DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">41.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Elena DX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Giardini Biennale SX">
+      <data key="d2">30.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Arsenale DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">27.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Celestia">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Giorgio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Giudecca Palanca SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="San Stae">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Rialto &quot;D&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Toma' SX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Zattere SX">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Madonna dell'Orto">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Zitelle SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="S. Pietro di Castello">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="Giardini Biennale SX" target="Piazzale Roma">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Crea" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Crea" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Crea" target="Sacca Fisola DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Crea" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Crea" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Crea" target="Burano DX per Treporti">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Crea" target="F.te Nove &quot;C&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Crea" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Crea" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">44.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Elena DX">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Giardini Biennale SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Arsenale DX">
+      <data key="d2">48.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">31.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Rialto Mercato">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Marta">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Giudecca Palanca SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Sacca Fisola DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="San Stae">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Rialto &quot;D&quot;">
+      <data key="d2">18.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Angelo">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Toma' SX">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Ca' Rezzonico">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Samuele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Zattere SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Maria del Giglio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Salute">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="Arsenale DX" target="Piazzale Roma">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Punta Sabbioni DX">
+      <data key="d2">71.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">403.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Elena DX">
+      <data key="d2">69.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Giardini Biennale SX">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Arsenale DX">
+      <data key="d2">18.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">478.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Marta">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Celestia">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Giorgio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Giudecca Palanca SX">
+      <data key="d2">52.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Sacca Fisola DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Tronchetto 'B' SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">18.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="San Stae">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">43.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Silvestro">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Angelo">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Toma' SX">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Zattere SX">
+      <data key="d2">25.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Marco (Vallaresso) SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Burano DX per Treporti">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Zitelle SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Redentore">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Basilio">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Lido bus">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Lido S. Nicolo' M/N">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Bacini - Arsenale Nord">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="S. Pietro di Castello">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">61.0</data>
+    </edge>
+    <edge source="S. Zaccaria (Pieta') &quot;A&quot;" target="Piazzale Roma">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Rialto Mercato">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Ferrovia &quot;B&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Riva de Biasio SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Ca' D'Oro">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Rialto &quot;D&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="S. Maria del Giglio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Lido bus">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto Mercato" target="Piazzale Roma">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marta" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="Giardini Biennale SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marta" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Marta" target="S. Marta">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Marta" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="Rialto &quot;D&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marta" target="Ca' Rezzonico">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="F.te Nove &quot;C&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marta" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marta" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Celestia" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Celestia" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Celestia">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Celestia" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Celestia" target="Bacini - Arsenale Nord">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Celestia" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="Rialto Mercato">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="S. Giorgio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="Giudecca Palanca SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Giorgio" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Punta Sabbioni DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">32.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Elena DX">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Giardini Biennale SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Arsenale DX">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">87.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Giudecca Palanca SX">
+      <data key="d2">223.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Sacca Fisola DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="San Stae">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Rialto &quot;D&quot;">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Silvestro">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Angelo">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Toma' SX">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Zattere SX">
+      <data key="d2">94.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Salute">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Madonna dell'Orto">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Alvise">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Zitelle SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="S. Basilio">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Guglie dx">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Lido bus">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Bacini - Arsenale Nord">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">67.0</data>
+    </edge>
+    <edge source="Giudecca Palanca SX" target="Piazzale Roma">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Giudecca Palanca SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Sacca Fisola DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Rialto &quot;D&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Zitelle SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="S. Basilio">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Sacca Fisola DX" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Elena DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Giudecca Palanca SX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Sacca Fisola DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Tronchetto 'B' SX">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="San Stae">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Rialto &quot;D&quot;">
+      <data key="d2">29.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Silvestro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Toma' SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Zattere SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Burano DX per Treporti">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Lido S. Nicolo' M/N">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="Bacini - Arsenale Nord">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tronchetto 'B' SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="Spirito Santo" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Spirito Santo" target="Spirito Santo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Spirito Santo" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Punta Sabbioni DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Elena DX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Giardini Biennale SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Arsenale DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">49.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Rialto Mercato">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Marta">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Giudecca Palanca SX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Sacca Fisola DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Tronchetto 'B' SX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">102.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="San Stae">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">489.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Silvestro">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Angelo">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Toma' SX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Ca' Rezzonico">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Zattere SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="S. Marco (Vallaresso) SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Burano DX per Treporti">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Zitelle SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Bacini - Arsenale Nord">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">33.0</data>
+    </edge>
+    <edge source="Ferrovia &quot;B&quot;" target="Piazzale Roma">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="San Stae">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Ca' D'Oro">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Toma' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Alvise">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Guglie dx">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="S. Erasmo Chiesa">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Bacini - Arsenale Nord">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Riva de Biasio SX" target="Piazzale Roma">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Punta Sabbioni DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Arsenale DX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Rialto Mercato">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Tronchetto 'B' SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Riva de Biasio SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Marcuola-Casino' DX">
+      <data key="d2">66.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="San Stae">
+      <data key="d2">53.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Rialto &quot;D&quot;">
+      <data key="d2">96.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Silvestro">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Angelo">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Toma' SX">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Zattere SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="S. Pietro di Castello">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">49.0</data>
+    </edge>
+    <edge source="S. Marcuola-Casino' DX" target="Piazzale Roma">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="San Stae" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="Arsenale DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="San Stae" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="Celestia">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="San Stae" target="Giudecca Palanca SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="San Stae" target="Tronchetto 'B' SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="San Stae" target="Ferrovia &quot;B&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="San Stae" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Marcuola-Casino' DX">
+      <data key="d2">75.0</data>
+    </edge>
+    <edge source="San Stae" target="San Stae">
+      <data key="d2">58.0</data>
+    </edge>
+    <edge source="San Stae" target="Ca' D'Oro">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="San Stae" target="Rialto &quot;D&quot;">
+      <data key="d2">43.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Angelo">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Toma' SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="San Stae" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="San Stae" target="S. Marco (Vallaresso) SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="San Stae" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="F.te Nove &quot;C&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="San Stae" target="Bacini - Arsenale Nord">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="San Stae" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="San Stae" target="Piazzale Roma">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Rialto Mercato">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Ferrovia &quot;B&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="San Stae">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Ca' D'Oro">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Rialto &quot;D&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="S. Samuele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Burano DX per Treporti">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="F.te Nove &quot;C&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' D'Oro" target="Piazzale Roma">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Punta Sabbioni DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">26.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Elena DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Arsenale DX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">80.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Rialto Mercato">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Marta">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Giudecca Palanca SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Tronchetto 'B' SX">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">120.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Riva de Biasio SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">60.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="San Stae">
+      <data key="d2">35.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Ca' D'Oro">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">619.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Silvestro">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Angelo">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Toma' SX">
+      <data key="d2">87.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Ca' Rezzonico">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Samuele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Zattere SX">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Salute">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Marco (Vallaresso) SX">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Alvise">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Burano DX per Treporti">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Aeroporto">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">569.0</data>
+    </edge>
+    <edge source="Rialto &quot;D&quot;" target="Piazzale Roma">
+      <data key="d2">71.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Giudecca Palanca SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Marcuola-Casino' DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="San Stae">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Rialto &quot;D&quot;">
+      <data key="d2">34.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Silvestro">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Angelo">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Toma' SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="S. Marco (Vallaresso) SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Burano DX per Treporti">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Lido bus">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Silvestro" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Ferrovia &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Marcuola-Casino' DX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Angelo" target="San Stae">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Rialto &quot;D&quot;">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Silvestro">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Angelo">
+      <data key="d2">37.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Toma' SX">
+      <data key="d2">51.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="S. Alvise">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Angelo" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="S. Angelo" target="Piazzale Roma">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">63.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Elena DX">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Giardini Biennale SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Arsenale DX">
+      <data key="d2">24.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">56.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Rialto Mercato">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Celestia">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Giudecca Palanca SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Riva de Biasio SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="San Stae">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Ca' D'Oro">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Rialto &quot;D&quot;">
+      <data key="d2">190.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Silvestro">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Angelo">
+      <data key="d2">217.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Toma' SX">
+      <data key="d2">96.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Samuele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Zattere SX">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Burano DX per Treporti">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="S. Pietro di Castello">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Toma' SX" target="Piazzale Roma">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Arsenale DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Marcuola-Casino' DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="San Stae">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Ca' D'Oro">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Rialto &quot;D&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Toma' SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="S. Marco (Vallaresso) SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="F.te Nove &quot;C&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Guglie dx">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Ca' Rezzonico" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Samuele" target="San Stae">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Samuele" target="Rialto &quot;D&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Samuele" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Samuele" target="S. Samuele">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Samuele" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Samuele" target="Piazzale Roma">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Punta Sabbioni DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">25.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Elena DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Giardini Biennale SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Arsenale DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Giorgio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Giudecca Palanca SX">
+      <data key="d2">63.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Sacca Fisola DX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Tronchetto 'B' SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="San Stae">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Rialto &quot;D&quot;">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Toma' SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Zattere SX">
+      <data key="d2">61.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="F.te Nove &quot;C&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Zitelle SX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Redentore">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="S. Basilio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Lido bus">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zattere SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="Zattere SX" target="Piazzale Roma">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Ca' Rezzonico">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Samuele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Maria del Giglio">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Santa Maria Del Mare">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Maria del Giglio" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Salute" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Salute" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Salute" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Salute" target="S. Giorgio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Salute" target="Rialto &quot;D&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Salute" target="S. Toma' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Salute" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Salute" target="Salute">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Salute" target="S. Marco (Vallaresso) SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Salute" target="S. Basilio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">62.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Elena DX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Giardini Biennale SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Arsenale DX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">20.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Giudecca Palanca SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Ferrovia &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="San Stae">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Rialto &quot;D&quot;">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Angelo">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Toma' SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Ca' Rezzonico">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Zattere SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="S. Marco (Vallaresso) SX">
+      <data key="d2">44.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Alberoni Faro Rocchetta N">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Marco (Vallaresso) SX" target="Piazzale Roma">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Crea">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="S. Marta">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="S. Pietro di Castello">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Madonna dell'Orto" target="Piazzale Roma">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Giudecca Palanca SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="S. Alvise">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Alvise" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="S. Pietro di Castello">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Alvise" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Elena DX">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Giardini Biennale SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="San Stae">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Ca' D'Oro">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">38.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Burano DX per Treporti">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Erasmo Capannone">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="S. Pietro di Castello">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">22.0</data>
+    </edge>
+    <edge source="Murano Colonna &quot;A&quot;" target="Piazzale Roma">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Punta Sabbioni DX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Arsenale DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Rialto Mercato">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Giudecca Palanca SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Tronchetto 'B' SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Ferrovia &quot;B&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Marcuola-Casino' DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="San Stae">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Ca' D'Oro">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Rialto &quot;D&quot;">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Silvestro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Angelo">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Zattere SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Maria del Giglio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Marco (Vallaresso) SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Burano DX per Treporti">
+      <data key="d2">137.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Treporti">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="F.te Nove &quot;C&quot;">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="S. Erasmo Chiesa">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Lido bus">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Burano DX per Treporti" target="Piazzale Roma">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Treporti" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Treporti" target="Burano DX per Treporti">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="Treporti" target="Treporti">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Treporti" target="S. Erasmo Capannone">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Treporti" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Giardini Biennale SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Chioggia P.tta Vigo">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Pellestrina Cimitero M/N">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Lido bus">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Santa Maria Del Mare">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Chioggia P.tta Vigo" target="Bacini - Arsenale Nord">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="S. Elena DX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="S. Marta">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Ferrovia &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="S. Alvise">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Cimitero S. Michele">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Burano DX per Treporti">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="F.te Nove &quot;C&quot;">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Zitelle SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Mazzorbo">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="F.te Nove &quot;C&quot;" target="Piazzale Roma">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Crea">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Arsenale DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Rialto Mercato">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="S. Giorgio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Giudecca Palanca SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Zitelle SX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="S. Basilio">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Aeroporto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Zitelle SX" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Redentore" target="Zitelle SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Redentore" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Basilio" target="S. Elena DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Basilio" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Basilio" target="S. Giorgio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Giudecca Palanca SX">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Sacca Fisola DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Basilio" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Zitelle SX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Redentore">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Basilio" target="S. Basilio">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="S. Basilio" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Basilio" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Guglie dx" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Rialto Mercato">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Ferrovia &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Guglie dx" target="S. Marcuola-Casino' DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Zattere SX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Tre Archi">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Guglie dx" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Guglie dx" target="Piazzale Roma">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="S. Erasmo Capannone" target="S. Erasmo Capannone">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Erasmo Chiesa" target="Giudecca Palanca SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Erasmo Chiesa" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Erasmo Chiesa" target="F.te Nove &quot;C&quot;">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="S. Erasmo Punta Vela" target="S. Erasmo Punta Vela">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">74.0</data>
+    </edge>
+    <edge source="Lido bus" target="S. Elena DX">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Lido bus" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Tronchetto 'B' SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Lido bus" target="Ferrovia &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Lido bus" target="S. Marcuola-Casino' DX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Lido bus" target="Rialto &quot;D&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Zattere SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Lido bus">
+      <data key="d2">37.0</data>
+    </edge>
+    <edge source="Lido bus" target="Santa Maria Del Mare">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido bus" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="Tronchetto 'B' SX">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="Lido S. Nicolo' M/N">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Lido S. Nicolo' M/N" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Aeroporto" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Ferrovia &quot;B&quot;">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Rialto &quot;D&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Aeroporto">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Aeroporto" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="Aeroporto" target="Piazzale Roma">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="S. Marcuola-Casino' DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Guglie dx">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Lido bus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Tre Archi" target="Piazzale Roma">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Mazzorbo" target="Burano DX per Treporti">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Mazzorbo" target="F.te Nove &quot;C&quot;">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Mazzorbo" target="Mazzorbo">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="Santa Maria Del Mare" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Punta Sabbioni DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="S. Elena DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Arsenale DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="San Stae">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Rialto &quot;D&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Bacini - Arsenale Nord">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Bacini - Arsenale Nord" target="Piazzale Roma">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="S. Angelo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Cimitero S. Michele">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Guglie dx">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="S. Pietro di Castello" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Punta Sabbioni DX">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">105.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Elena DX">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Giardini Biennale SX">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Crea">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Arsenale DX">
+      <data key="d2">74.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">384.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Rialto Mercato">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Marta">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Celestia">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Giudecca Palanca SX">
+      <data key="d2">119.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Sacca Fisola DX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Tronchetto 'B' SX">
+      <data key="d2">21.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Spirito Santo">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Ferrovia &quot;B&quot;">
+      <data key="d2">46.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Riva de Biasio SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Marcuola-Casino' DX">
+      <data key="d2">58.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="San Stae">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Ca' D'Oro">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Rialto &quot;D&quot;">
+      <data key="d2">2523.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Silvestro">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Angelo">
+      <data key="d2">58.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Toma' SX">
+      <data key="d2">23.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Ca' Rezzonico">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Zattere SX">
+      <data key="d2">34.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Maria del Giglio">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Salute">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Marco (Vallaresso) SX">
+      <data key="d2">45.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Madonna dell'Orto">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Alvise">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Cimitero S. Michele">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Murano Colonna &quot;A&quot;">
+      <data key="d2">40.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Burano DX per Treporti">
+      <data key="d2">30.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="F.te Nove &quot;C&quot;">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Zitelle SX">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Redentore">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Basilio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Guglie dx">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Lido bus">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Lido S. Nicolo' M/N">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Tre Archi">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Bacini - Arsenale Nord">
+      <data key="d2">28.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="S. Pietro di Castello">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">712.0</data>
+    </edge>
+    <edge source="P.le Roma (Hotel S. Chiar" target="Piazzale Roma">
+      <data key="d2">100.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Lido (S.M.E.) &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Giardini Biennale SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Zaccaria (Pieta') &quot;A&quot;">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Marta">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Celestia">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Giudecca Palanca SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Sacca Fisola DX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Tronchetto 'B' SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Ferrovia &quot;B&quot;">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Marcuola-Casino' DX">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Ca' D'Oro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Rialto &quot;D&quot;">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Toma' SX">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Zattere SX">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Marco (Vallaresso) SX">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Alvise">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Burano DX per Treporti">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Redentore">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="S. Basilio">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Aeroporto">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="P.le Roma (Hotel S. Chiar">
+      <data key="d2">60.0</data>
+    </edge>
+    <edge source="Piazzale Roma" target="Piazzale Roma">
+      <data key="d2">77.0</data>
+    </edge>
+  </graph>
+</graphml>
