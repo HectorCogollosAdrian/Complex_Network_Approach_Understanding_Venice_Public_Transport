@@ -36,7 +36,7 @@ def __comu_degree__(x, sub_graph, weight = None):
     else:
         return None
 
-def to_picle(dZ,dP,dRol,cm,n_file):
+def to_pickle(dZ,dP,dRol,cm,n_file):
     """
     Save the results of the guimera algorithm and the communities in pickle files
     :param dZ: Dictionary of Z score
