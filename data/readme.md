@@ -2,9 +2,9 @@
 
 The directory includes different files used as data inputs for the analysis presented. These files include:
 
-* *data_set_raw_100.csv*: Includes a sample of the validations used to build the complex networks.
-* *kind_of_tickets_segmentation_or.csv*: is the list of the different types of tickets available from the ACTV. For simplification reasons, they have being grouped on 'tourist' or 'resident' categories.
-* *stop_aggr.json*: is the file describing how stops that are considered different in the raw validations dataset can be grouped in a logical manner. It means if a stop has two boarding docks, they appear as different places of validation in the dataset, but they can be considered the same stop.
+* *data_set_raw_100.csv*: Includes a sample of the validations used to build the complex networks. It includes only 100 random rows, as the dataset is not redistributable for privacy reasons.
+* *kind_of_tickets_segmentation_or.csv*: is the list of the different types of tickets available from the ACTV. For simplification reasons, in the study they have being grouped on 'tourist' or 'resident' categories.
+* *stop_aggr.json*: is the file describing how stops that are considered different in the raw validations dataset can be grouped in a logical manner. If a stop has two boarding docks, they appear as different places of validation in the dataset, but they can be considered the same stop. This file includes those dfined groupings in a python dictonary form.
 * *stops.csv*: it contains the information of each of the stops, including an ID and a geographic location (lat,lon), used for visualization pourposes.
 
 The contents of each file are as folows:
