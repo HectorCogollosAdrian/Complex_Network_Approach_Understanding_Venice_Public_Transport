@@ -61,7 +61,7 @@ def to_pickle(dZ,dP,dRol,cm,n_file):
         pickle.dump(cm,pickled_file)
 
 
-def rol(dZ, dP):
+def role(dZ, dP):
     """
     Calculate the role to which each node belongs using its z-score and P-value.
     :param dZ: Dictionary of Z-score
@@ -79,7 +79,7 @@ def rol(dZ, dP):
             elif dP[i]<0.75:
                 dRol[i] = "R6 Connector hubs"
             else:
-                dRol[i] = "R7 Kinless hubs"
+                dRol[i] = "R7 Multi-community transfer hubs"
         else:
             if dP[i]<0.05:
                 dRol[i]="R1 Ultra-peripheral"
@@ -88,7 +88,7 @@ def rol(dZ, dP):
             elif dP[i]<0.8:
                 dRol[i]="R3 Non-hub connectors"
             else:
-                dRol[i] = "R4 Non-hub kinless"
+                dRol[i] = "R4 Multi-community non-hubs"
     return dRol
 
 
