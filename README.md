@@ -23,8 +23,8 @@ This repository includes the code and experiments described in the paper "Mappin
 ├── data/              # Input datasets and metadata for network construction
 ├── models/            # Saved network models (GraphML files and related outputs)
 ├── LICENSE
-├── README.md
-└── requirements.txt
+├── environment.yml
+└── README.md
 ```
 
 ---
@@ -37,14 +37,15 @@ This repository includes the code and experiments described in the paper "Mappin
 * geopandas==1.1.1
 * libpysal==4.13.0
 * matplotlib==3.10.6
-* networkx==3.5
-* numpy==2.3.3
+* networkx==2.8.5
+* numpy<2.0
 * pandas==2.3.3
 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+conda env create --name myenv -f environment.yml
+conda activate myenv
 ```
 
 ---
