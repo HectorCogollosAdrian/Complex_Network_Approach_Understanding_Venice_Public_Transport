@@ -91,5 +91,5 @@ Released under the **MIT License**.
 [**Héctor Cogollos Adrián**](https://investigacion.ubu.es/investigadores/131537/detalle?lang=en)  
 [**Bruno Baruque Zanón**](https://investigacion.ubu.es/investigadores/35000/detalle)  
 [**Santiago Porras Alfonso**](https://investigacion.ubu.es/investigadores/35444/detalle)  
-[**Alessandra Raffaetàa**](https://www.unive.it/data/people/5591966)
+[**Alessandra Raffaetà**](https://www.unive.it/data/people/5591966)
 
