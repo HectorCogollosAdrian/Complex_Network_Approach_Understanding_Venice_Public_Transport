@@ -11,7 +11,9 @@ By modeling stops and travels as nodes and edges, it explores how **residents an
 
 The goal is to uncover structural patterns, key hubs, and mobility differences between user groups — offering insights for **urban planning** and **transport optimization**.
 
-This repository includes the code and experiments described in the paper "Mapping Urban Mobility Patterns: A Complex Network Approach to Understanding Venice’s Public Transport Usage by Residents and Tourists" submitted to the [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/).
+This repository includes the code and experiments described in the paper ["Mapping Urban Mobility Patterns: A Complex Network Approach to Understanding Venice’s Public Transport Usage by Residents and Tourists"](https://ieeexplore.ieee.org/document/11353382) submitted to the [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/).
+
+H. C. Adrián, B. Baruque Zanón, S. Porras Alfonso and A. Raffaetà, "Understanding Resident and Tourist Mobility in Venice Through Complex Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 27, no. 4, pp. 4635-4644, April 2026, doi: [10.1109/TITS.2026.3651687](https://ieeexplore.ieee.org/document/11353382).
 
 ---
 
