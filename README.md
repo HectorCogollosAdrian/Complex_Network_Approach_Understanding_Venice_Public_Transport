@@ -95,3 +95,14 @@ Released under the **MIT License**.
 [**Santiago Porras Alfonso**](https://investigacion.ubu.es/investigadores/35444/detalle)  
 [**Alessandra Raffaetà**](https://www.unive.it/data/people/5591966)
 
+## Reference
+
+This repository is based on the methodology presented in:
+
+H. Cogollos Adrián, B. Baruque Zanón, S. Porras Alfonso, and A. Raffaetà, "Understanding Resident and Tourist Mobility in Venice Through Complex Networks," *IEEE Transactions on Intelligent Transportation Systems*, vol. 27, no. 4, pp. 4635–4644, 2026. 
+
+DOI: [10.1109/TITS.2026.3651687](https://doi.org/10.1109/TITS.2026.3651687)
+
+If you use this repository in your research, please cite the original publication.
+
+
